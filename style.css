@@ -1,0 +1,30 @@
+body {
+    background: #1e3c72;
+    background: -webkit-linear-gradient(to bottom, #1e3c72, #2a5298);
+    background: linear-gradient(to bottom, #1e3c72, #2a5298);
+    color: white;
+    font-family: 'Oswald', sans-serif;
+}
+
+a,
+a:active,
+a:hover,
+a:visited {
+    color: white;
+}
+
+.app-thumbnail {
+    width: 200px;
+}
+
+.app-store {
+    height: 40px;
+}
+
+.app-store-unavailable {
+    opacity: 0.333;
+}
+
+.social {
+    height: 40px;
+}
