@@ -1,7 +1,7 @@
 body {
-    background: #1e3c72;
-    background: -webkit-linear-gradient(to bottom, #1e3c72, #2a5298);
-    background: linear-gradient(to bottom, #1e3c72, #2a5298);
+    background: #00B4DB;
+    background: -webkit-linear-gradient(to bottom,#00B4DB, #0083B0);
+    background: linear-gradient(to bottom, #00B4DB, #0083B0);
     color: white;
     font-family: 'Oswald', sans-serif;
 }
